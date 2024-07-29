@@ -1,5 +1,8 @@
-# Julia Development Container Template
 
-Template for a clean Julia programming language [development container](https://containers.dev/).
+# Julia (julia)
 
-This template will be surfaced in various client tools, for example VS Code.
+Develop Julia applications in VSCode
+
+# Locally
+git clone https://github.com/MauScheff/julia-codespace.git
+
