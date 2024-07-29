@@ -18,5 +18,4 @@ Develop Julia applications in VSCode
 3. Go to your forked repo and click on green code button then HTTPS / Copy url to clipboard.
 4. $ git clone PASTE URL
 5. With VSCODE command palette (CMD+SHIFT+P) write "create new codespace" and follow instructions.
-6. Manage your workspaces on github website.
-
+6. Manage your workspaces on github website (https://github.com/codespaces).
