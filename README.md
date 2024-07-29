@@ -3,6 +3,15 @@
 
 Develop Julia applications inside VSCode containers (locally or remotely).
 
+Why?
+Preinstalled development environment (runs on optimized linux from official Julia docker image: https://hub.docker.com/_/julia)
+
+Local development:
+Same configuration works everywhere (good for collaboration and deployments).
+
+Remote development:
+Use a powerful machine remotely (up to 32 cores), usage-based payments, and develop from a lightweight workstation: https://docs.github.com/en/codespaces/customizing-your-codespace/changing-the-machine-type-for-your-codespace
+
 # Locally
 0. Install docker (https://docs.docker.com/engine/install/)
 0.1 Install devcontainers extension in VSCode https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
