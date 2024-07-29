@@ -15,7 +15,7 @@ Develop Julia applications in VSCode
 # Remotely with Github Codespaces
 1. Open with browser https://github.com/MauScheff/julia-devcontainer
 2. Click on fork and fork it.
-3. Go to your forked repo and click on code then HTTPS / Copy url to clipboard.
+3. Go to your forked repo and click on green code button then HTTPS / Copy url to clipboard.
 4. $ git clone <PASTE URL>
 5. With VSCODE command palette (CMD+SHIFT+P) write "create new codespace" and follow instructions.
 6. Manage your workspaces on github website.
