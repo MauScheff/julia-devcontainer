@@ -1,7 +1,7 @@
 
-# Julia (julia)
+# Julia DevContainer Template
 
-Develop Julia applications in VSCode
+Develop Julia applications inside VSCode containers (locally or remotely).
 
 # Locally
 0. Install docker (https://docs.docker.com/engine/install/)
@@ -11,6 +11,7 @@ Develop Julia applications in VSCode
 3. $ code .
 4. Wait for vscode to detect Dev Container and click open in container in bottom right dialog.
 4. Alternatively, open the command palette (CMD+SHIFT+P) and write "reopen in container".
+5. Alternative, rather than cloning in step 1 you can fork it and then clone your fork.
 
 # Remotely with Github Codespaces
 1. Open with browser https://github.com/MauScheff/julia-devcontainer
